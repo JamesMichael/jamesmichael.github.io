@@ -106,7 +106,7 @@ And we find there are three Morse palindromes with 17 consecutive dots or dashes
     14  XXXXXX      ..............
     14  shieh       ..............
 
-#### How many Morse palindromes are English palindromes
+#### Morse palindromes which are also English palindromes
 
 With a minor alteration to my `morse-palindromes` script, I narrowed the
 list down to 114 such instances.
